@@ -1,0 +1,42 @@
+_repo: Hungarian-Sketches-in-Peace-and-WarConstable-s-Miscellany-of-Foreign-Literature-vol.-1_32204
+_version: 0.1.0
+alternative_title: Csataképek. English
+contributor:
+  commentator:
+    agent_name: Szabad, Emeric
+    gutenberg_agent_id: '35720'
+    url: http://www.gutenberg.org/2009/agents/35720
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Maurus
+    - Jokai, Mor
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungary -- History -- Uprising of 1848-1849 -- Fiction'
+- !lcc 'PH'
+- !lcsh 'Hungary -- Fiction'
+tableOfContents: Preface -- Dear relations -- The Bardy family -- Crazy Marcsa --
+  Comorn -- Mor Perczel -- Gergely Sonkolyi -- The unlucky weathercock -- The two
+  brides -- The brewer -- The Szekely mother -- A ball.
+title: 'Hungarian Sketches in Peace and War
+
+  Constable''s Miscellany of Foreign Literature, vol. 1'
+url: http://www.gutenberg.org/ebooks/32204
